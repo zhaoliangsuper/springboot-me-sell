@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+Class-Path: antlr-2.7.7.jar netty-transport-4.1.24.Final.jar spring-bo
+ ot-starter-data-jpa-2.0.2.RELEASE.jar xpp3_min-1.1.4c.jar netty-codec
+ -4.1.24.Final.jar spring-boot-starter-logging-2.0.2.RELEASE.jar log4j
+ -api-2.10.0.jar reactor-core-3.1.7.RELEASE.jar spring-websocket-5.0.6
+ .RELEASE.jar spring-beans-5.0.6.RELEASE.jar spring-boot-autoconfigure
+ -2.0.2.RELEASE.jar freemarker-2.3.28.jar validation-api-2.0.1.Final.j
+ ar httpclient-4.5.5.jar hibernate-validator-6.0.9.Final.jar logback-c
+ lassic-1.2.3.jar unbescape-1.1.5.RELEASE.jar jandex-2.0.3.Final.jar n
+ etty-common-4.1.24.Final.jar weixin-java-mp-2.7.0.jar aspectjweaver-1
+ .8.13.jar classmate-1.3.4.jar jackson-module-parameter-names-2.9.5.ja
+ r spring-boot-starter-web-2.0.2.RELEASE.jar spring-data-keyvalue-2.0.
+ 7.RELEASE.jar hibernate-commons-annotations-5.0.1.Final.jar netty-buf
+ fer-4.1.24.Final.jar jackson-annotations-2.9.0.jar guava-20.0.jar con
+ verter-simplexml-2.3.0.jar spring-boot-starter-aop-2.0.2.RELEASE.jar 
+ spring-boot-starter-jdbc-2.0.2.RELEASE.jar spring-orm-5.0.6.RELEASE.j
+ ar attoparser-2.0.4.RELEASE.jar spring-context-support-5.0.6.RELEASE.
+ jar xmlpull-1.1.3.1.jar hibernate-core-5.2.17.Final.jar spring-tx-5.0
+ .6.RELEASE.jar xstream-1.4.9.jar stax-api-1.0.1.jar spring-aop-5.0.6.
+ RELEASE.jar hamcrest-core-1.3.jar okio-1.13.0.jar spring-boot-starter
+ -json-2.0.2.RELEASE.jar jackson-databind-2.9.5.jar junit-4.12.jar jac
+ kson-datatype-jdk8-2.9.5.jar spring-boot-starter-tomcat-2.0.2.RELEASE
+ .jar spring-data-jpa-2.0.7.RELEASE.jar joda-time-2.9.9.jar spring-boo
+ t-starter-freemarker-2.0.2.RELEASE.jar commons-codec-1.11.jar best-pa
+ y-sdk-1.1.0.jar reactive-streams-1.0.2.jar hibernate-jpa-2.1-api-1.0.
+ 0.Final.jar xpp3-1.1.3.3.jar javax.ws.rs-api-2.1.jar jackson-core-2.9
+ .5.jar spring-boot-starter-2.0.2.RELEASE.jar spring-jcl-5.0.6.RELEASE
+ .jar netty-resolver-4.1.24.Final.jar spring-expression-5.0.6.RELEASE.
+ jar tomcat-embed-websocket-8.5.31.jar httpcore-4.4.9.jar tomcat-embed
+ -el-8.5.31.jar lombok-1.16.20.jar stax-1.2.0.jar spring-messaging-5.0
+ .6.RELEASE.jar spring-web-5.0.6.RELEASE.jar javax.inject-2.5.0-b42.ja
+ r spring-aspects-5.0.6.RELEASE.jar thymeleaf-extras-java8time-3.0.1.R
+ ELEASE.jar httpmime-4.5.5.jar simple-xml-2.7.1.jar javax.transaction-
+ api-1.2.jar log4j-to-slf4j-2.10.0.jar jboss-logging-3.3.2.Final.jar H
+ ikariCP-2.7.9.jar dom4j-1.6.1.jar jul-to-slf4j-1.7.25.jar tomcat-anno
+ tations-api-8.5.31.jar commons-io-2.5.jar jersey-client-2.26.jar spri
+ ng-data-redis-2.0.7.RELEASE.jar spring-core-5.0.6.RELEASE.jar logback
+ -core-1.2.3.jar spring-boot-starter-thymeleaf-2.0.2.RELEASE.jar javax
+ .annotation-api-1.3.2.jar spring-boot-2.0.2.RELEASE.jar spring-oxm-5.
+ 0.6.RELEASE.jar spring-data-commons-2.0.7.RELEASE.jar mysql-connector
+ -java-5.1.46.jar okhttp-3.8.0.jar osgi-resource-locator-1.0.1.jar gso
+ n-2.8.4.jar spring-context-5.0.6.RELEASE.jar slf4j-api-1.7.25.jar tom
+ cat-embed-core-8.5.31.jar snakeyaml-1.19.jar commons-lang3-3.7.jar je
+ rsey-apache-connector-2.23.2.jar thymeleaf-3.0.9.RELEASE.jar retrofit
+ -2.3.0.jar javassist-3.22.0-GA.jar spring-webmvc-5.0.6.RELEASE.jar ja
+ ckson-datatype-jsr310-2.9.5.jar lettuce-core-5.0.4.RELEASE.jar thymel
+ eaf-spring5-3.0.9.RELEASE.jar weixin-java-common-2.7.0.jar spring-boo
+ t-starter-websocket-2.0.2.RELEASE.jar spring-boot-starter-data-redis-
+ 2.0.2.RELEASE.jar spring-jdbc-5.0.6.RELEASE.jar netty-handler-4.1.24.
+ Final.jar jersey-common-2.26.jar
+Main-Class: com.sell.SellApplication
+
